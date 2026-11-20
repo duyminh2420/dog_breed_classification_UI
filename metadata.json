@@ -1,0 +1,6 @@
+{
+  "name": "DogNet Classifier",
+  "description": "71-class dog breed image classifier and camera inference console built around the DogNet Swin-T, ResNet18, and AlexNet training notebook.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
