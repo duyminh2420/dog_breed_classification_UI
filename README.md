@@ -3,6 +3,11 @@
 DogNet uses a local PyTorch Swin-T classifier for breed predictions; no Gemini
 API key is required. You need Node.js and Python 3.9 or newer.
 
+<img width="1542" height="1222" alt="image" src="https://github.com/user-attachments/assets/17ed1481-1232-4fd6-8f64-40f8f47588e8" />
+<img width="1385" height="1226" alt="image" src="https://github.com/user-attachments/assets/a2246adc-8b0d-4339-a41a-7e99ad4bd978" />
+<img width="1380" height="725" alt="image" src="https://github.com/user-attachments/assets/ff3bb83c-9005-4104-9b75-438e6c1f3f8c" />
+
+
 ## Train the model (Windows PowerShell)
 
 Run commands from the project root. The dataset is in `lib/train`, `lib/valid`,
